@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil! 👋
 
 
-- Atualmente trabalhando como desenvolvedor Front-end.
+- Atualmente trabalhando como desenvolvedor Front-end na Lionsoft Inc.
 - Me especializando em Javascript.
 - Contato: lucas.msouza@hotmail.com.
 
