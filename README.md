@@ -1,11 +1,22 @@
 ### Hello World!
-##
-Bem-vindo ao meu perfil! 👋
+## Bem-vindo ao meu perfil! 👋
 
-
-- Atualmente trabalhando como desenvolvedor Front-end na Lionsoft Inc.
-- Me especializando em Javascript.
+- Costumo me ver como um solucionador de problemas. Gosto de fazer diferença em qualquer projeto que esteja alocado, sempre pensando fora da caixa. Sou apaixonado por tecnologia e desenvolvimento com foco em proporcionar a melhor experiência para usuários.
 - Contato: lucas.msouza@hotmail.com.
+
+## Tecnologias:
+- ReactJS;
+- NextJS;
+- Styled Components;
+- Javascript;
+- Typescript;
+- TailwindCSS;
+- Material Ui;
+- Testes unitários;
+- Docker;
+- NodeJS;
+- NestJS;
+- Express;
 
 ##
 
